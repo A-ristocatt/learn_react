@@ -1,0 +1,19 @@
+{
+  "name": "learn_react",
+  "version": "1.0.0",
+  "description": "learning about react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-ristocatt/learn_react.git"
+  },
+  "author": "Catt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A-ristocatt/learn_react/issues"
+  },
+  "homepage": "https://github.com/A-ristocatt/learn_react#readme"
+}
